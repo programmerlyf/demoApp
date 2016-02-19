@@ -1,0 +1,90 @@
+[
+   
+    {
+        "id": 1,
+        "name": "Possimus possimus blanditiis.",
+        "description": "Eum nesciunt et facere fugiat rem ut necessitatibus cupiditate mollitia quis.",
+        "image": "s6_edge_1.jpg",
+        "price": "511.00",
+        "sku": 105801,
+        "quantity": 92,
+        "status": "out_of_stock",
+        "active": false
+    },
+    {
+        "id": 2,
+        "name": "Optio eos molestiae.",
+        "description": "Sed id quo inventore ullam ipsum et quasi consequatur.",
+       
+        "price": "589.00",
+        "sku": 143082,
+       
+    },
+    {
+        "id": 3,
+        "name": "Quo vero illum.",
+        "description": "Sed consectetur quis porro odit eum ut cum laborum amet saepe rerum.",
+        "image": "s6_edge_1.jpg",
+        "price": "494.00",
+        "sku": 164475,
+        "quantity": 36,
+        "status": "in_stock",
+        "active": true
+    },
+    {
+        "id": 4,
+        "name": "Aut deserunt nihil quibusdam.",
+        "description": "Maxime consequuntur quisquam voluptate est ducimus unde.",
+        "image": "s6_edge_2.jpg",
+        "price": "463.00",
+        "sku": 152225,
+        "quantity": 60,
+        "status": "out_of_stock",
+        "active": false
+    },
+    {
+        "id": 5,
+        "name": "Voluptatem sit est error.",
+        "description": "Voluptatem modi fugiat enim aperiam corrupti quia neque enim non iusto.",
+        "image": "s6_edge_2.jpg",
+        "price": "576.00",
+        "sku": 190677,
+        "quantity": 46,
+        "status": "out_of_stock",
+        "active": false
+    },
+    {
+        "id": 6,
+        "name": "Et itaque.",
+        "description": "Repellendus et aut et ipsum laborum iure sequi sunt autem.",
+        "image": "s6_edge_1.jpg",
+        "price": "547.00",
+        "sku": 115847,
+        "quantity": 29,
+        "status": "ships_3_5_days",
+        "active": false
+    },
+    {
+        "id": 7,
+        "name": "Qui eos autem ipsam quos.",
+        "description": "Distinctio nihil repellendus dignissimos pariatur voluptas dolores .",
+        "image": "s6_edge_1.jpg",
+        "price": "560.00",
+        "sku": 196991,
+        "quantity": 71,
+        "status": "ships_3_5_days",
+        "active": true
+    },
+    {
+        "id": 8,
+        "name": "Minima vel est.",
+        "description": "Temporibus molestiae eos itaque pariatur quia placeat eos natus vel tenetur qui.",
+        "image": "s6_edge_2.jpg",
+        "price": "558.00",
+        "sku": 182807,
+        "quantity": 33,
+        "status": "in_stock",
+        "active": false
+    }
+   
+]

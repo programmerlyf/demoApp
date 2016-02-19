@@ -1,0 +1,23 @@
+<header id="header_main" ng-controller="adminCtrl">
+        <div class="header_main_content">
+          <nav class="uk-navbar">
+            <ul class="uk-navbar-nav user_actions">
+              <li><a ui-sref="admin.create">Add New Movie</a></li>
+            </ul> 
+          <div class="uk-navbar-flip">
+            <ul class="uk-navbar-nav user_actions">
+              
+              <li><a ui-sref="admin.dashboard">Welcome {{name}}</a></li>
+              <li><a ng-click=logout();>Logout</a></li>
+            </ul>
+                  
+                </div>
+            </nav>
+        </div>
+    </header>
+<div id="page_content">
+  <div id="page_content_inner">
+    <div ui-view></div>
+  </div>
+</div>
+
